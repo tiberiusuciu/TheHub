@@ -33,22 +33,22 @@ export default {
       selectedColors: '',
       projects: [
         {
-          title: 'B21',
+          title: 'Vue21',
           description: 'A multiplayer blackjack application made with VueJS',
           link: '',
-          sourceLink: '',
+          sourceLink: 'https://github.com/tiberiusuciu/Vue21',
           isReady: false
         },
         {
           title: 'Songify',
-          description: 'An application to convert videos into mp3 files',
+          description: 'An application to convert online videos into downloadable mp3 files',
           link: '',
           sourceLink: '',
           isReady: false
         },
         {
           title: 'Resume',
-          description: 'My online resume',
+          description: 'An application presenting my resume',
           link: '',
           sourceLink: '',
           isReady: false
@@ -104,7 +104,7 @@ export default {
         },
         {
           title: 'Chopify',
-          description: 'Audio track editor',
+          description: 'Online audio track editor',
           link: '',
           sourceLink: '',
           isReady: false
@@ -140,6 +140,18 @@ export default {
         {
           primary: 'rgba(255,81,47,1)',
           secondary: 'rgba(221,36,118,1)'
+        },
+        {
+          primary: 'rgba(255, 175, 189,1)',
+          secondary: 'rgba(255, 195, 160,1)'
+        },
+        {
+          primary: 'rgba(66, 39, 90,1)',
+          secondary: 'rgba(115, 75, 109,1)'
+        },
+        {
+          primary: 'rgba(6, 190, 181,1)',
+          secondary: 'rgba(72, 177, 191,1)'
         }
       ]
     }
