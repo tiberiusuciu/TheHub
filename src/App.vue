@@ -35,7 +35,7 @@ export default {
         {
           title: 'Vue21',
           description: 'A multiplayer blackjack application made with VueJS',
-          link: '34.219.131.135',
+          link: 'http://34.219.131.135',
           sourceLink: 'https://github.com/tiberiusuciu/Vue21',
           isReady: true
         },
